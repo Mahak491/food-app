@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-cards {
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0
+}
+
+.login{
+  padding: 0 18px;
+}
+.filter{
+  display: flex;
+}
